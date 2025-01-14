@@ -78,7 +78,6 @@ class Maze {
     window.requestAnimationFrame(() => {
       this.draw();
     });
-    //     setTimeout(() => {rd
     //       this.draw();
     //     }, 10);
   }
